@@ -4,27 +4,46 @@ title: 'Sriniketh Ramachandran'
 theme: "PaperMod"
 
 languages:
-    en:
-        languageName: "English"
-        weight: 1
+  en:
+    languageName: "English"
+    weight: 1
 
 params:
+  env: production
+  description: "Sriniketh Ramachandran's personal website"
+  author: Sriniketh Ramachandran
+
   defaultTheme: auto
   ShowReadingTime: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
 
-  profileMode:
-    enabled: true
-    title: "Hi there 👋"
-    subtitle: "I'm a full stack software engineer specializing in native Android development. I'm passionate about product-led growth and solving meaningful problems at scale."
+  homeInfoParams:
+    # enabled: true
+    Title: "Hi there 👋"
+    Content: >
+      - I'm a Full Stack Software Engineer specializing in native Android development. I'm passionate about product-led growth and building useful software that has a positive impact on people's lives.
+      
+      - 
+      
+      - Here are some of the projects I've been working on lately:
+      
+      - 
+
+      - [ktools](https://sriniketh.dev/ktools/) - Useful developer tools built using kotlin multiplatform
+
+      - [prose](https://github.com/sriniketh/prose) - An Android app to organize your reading list, capture and save highlights from physical books
 
   socialIcons:
-        - name: github
-          url: "https://github.com/sriniketh"
-        - name: linkedin
-          url: "https://www.linkedin.com/in/sriniketh/"
-        - name: twitter
-          url: "https://twitter.com/CharPointer"
-        - name: email
-          url: "mailto:hello@sriniketh.dev"
+    - name: github
+      title: View profile on Github
+      url: "https://github.com/sriniketh"
+    - name: linkedin
+      title: View profile on LinkedIn
+      url: "https://www.linkedin.com/in/sriniketh/"
+    - name: X
+      title: View profile on X
+      url: "https://x.com/CharPointer"
+    - name: email
+      title: Say hello via email
+      url: "mailto:hello@sriniketh.dev"
