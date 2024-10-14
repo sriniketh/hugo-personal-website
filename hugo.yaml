@@ -22,11 +22,15 @@ params:
     # enabled: true
     Title: "Hi there 👋"
     Content: >
-      - I'm a Full Stack Software Engineer specializing in native Android development. I'm passionate about product-led growth and building useful software that has a positive impact on people's lives.
+      - I'm a Full Stack Software Engineer specializing in native Android development at Expedia Group. I'm passionate about product-led growth and building useful software that has a positive impact on people's lives. 
+
+      - 
+      
+      - At Expedia Group, I contribute to their portfolio apps, including [Expedia](https://play.google.com/store/apps/details?id=com.expedia.bookings), [Hotels.com](https://play.google.com/store/apps/details?id=com.hcom.android) and [Vrbo](https://play.google.com/store/apps/details?id=com.vrbo.android).
       
       - 
       
-      - Here are a few things that I've built:
+      - As a passionate builder, and tinkerer, here are a few other projects I've created:
       
       - 
 
@@ -46,4 +50,4 @@ params:
       url: "https://x.com/CharPointer"
     - name: email
       title: Say hello via email
-      url: "mailto:hello@sriniketh.dev"
+      url: "mailto:contact@sriniketh.dev"
