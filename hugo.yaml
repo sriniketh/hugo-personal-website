@@ -43,6 +43,8 @@ params:
 
       - [trmnl plugins](https://github.com/sriniketh?tab=repositories&q=topic%3Atrmnl) - Plugins for the [trmnl](https://usetrmnl.com/) e-ink device
 
+      - [mediawiki-mcp-server](https://github.com/sriniketh/mediawiki-mcp-server) - MediaWiki MCP server written in Kotlin
+
   socialIcons:
     - name: github
       title: View profile on Github
